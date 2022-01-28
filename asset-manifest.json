@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fbb94c73.css",
+    "main.js": "/static/js/main.4c43e4ef.js",
+    "static/js/787.efee2a93.chunk.js": "/static/js/787.efee2a93.chunk.js",
+    "static/media/Raleway-SemiBold.ttf": "/static/media/Raleway-SemiBold.de2579e37da1f4692490.ttf",
+    "static/media/Raleway-Bold.ttf": "/static/media/Raleway-Bold.2d5ba4784af03c9906b7.ttf",
+    "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.0c4f82c155c2f75fe843.ttf",
+    "static/media/chocolade.jpg": "/static/media/chocolade.d536c93d197b2df37295.jpg",
+    "static/media/nature.jpg": "/static/media/nature.10d4452b8a4e6fe59931.jpg",
+    "static/media/bag-staff.svg": "/static/media/bag-staff.29790594f862f5085ff32fa876e7225e.svg",
+    "static/media/bag.svg": "/static/media/bag.c19ac3664deef41d80e486aac2e93843.svg",
+    "static/media/react-icon.svg": "/static/media/react-icon.4a43c48d6c1a91026848f23f0d1355ac.svg",
+    "static/media/cart-icon.svg": "/static/media/cart-icon.07b18926d40fe36a73a325d57fb27c22.svg",
+    "static/media/delete.svg": "/static/media/delete.8b2a93e82a07b411149ac5b949314e7f.svg",
+    "index.html": "/index.html",
+    "static/media/search-icon.svg": "/static/media/search-icon.2fd54c2a30f7c29eabe6.svg",
+    "main.fbb94c73.css.map": "/static/css/main.fbb94c73.css.map",
+    "main.4c43e4ef.js.map": "/static/js/main.4c43e4ef.js.map",
+    "787.efee2a93.chunk.js.map": "/static/js/787.efee2a93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb94c73.css",
+    "static/js/main.4c43e4ef.js"
+  ]
+}
